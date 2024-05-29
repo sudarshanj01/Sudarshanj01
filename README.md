@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hi there 👋, I'm Sudarshan Jadhav</h1>
-<h3 align="center">A passionate and skilled Full Stack Developer</h3>
+<h3 align="center">A passionate Full Stack Developer</h3>
 
 <!-- Intro -->
 <p align="center">
