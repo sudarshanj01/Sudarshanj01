@@ -2,11 +2,6 @@
 <h1 align="center">Hi there 👋, I'm Sudarshan Jadhav</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-<!-- Intro -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" width="400" height="300">
-</p>
-
 <!-- About Me -->
 <h3>About Me:</h3>
 <p>I am a professional Full Stack Developer with a strong background in Java, Spring Boot, React, and AWS. Additionally, I have extensive experience in AWS DevOps, ensuring efficient and reliable deployment of applications. My passion lies in creating high-quality, scalable, and user-friendly software solutions that bring value to businesses.</p>
@@ -28,23 +23,8 @@
   <a href="https://en.wikipedia.org/wiki/Data_structure" target="_blank"><img src="https://img.shields.io/badge/Data%20Structures-0769AD?style=for-the-badge&logo=data%3Aimage/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAABLElEQVRIie3UP0sCYRzH8c8rSCRXxiAYAg0hzU1jyuRWGgyC4GBoyrWgaEqYpoKAaJqaGkNDKYshgkg6iolHH35/tM+j+3ieCz4/jr0P3EAQBEGQJzKfCWi8DVDG31B6A6CkvyH/DoAk/Q2pdwBE0t/w9RogRP0ATT4JBGT/BARa/AgI6HQNBLT7JCKEFAGhfYshgQBCg4CI8TKGBNp8DQi0+xwSJPAOhRTfAyJm+xiQwGtMEexTSPC1/D0gaLYPGIn+CTxMLuHk6QWOLqwf43r2wt7RE4HTI/sVp4XPEI6qrwHBo9IrKAjEWLjf/v1gbOOxOZg6bWYb7p6R/8wlvw3KslAK0CYNWoTrOtIgcQlnsmkgCIIgeOIdwbH/Wkn2VdEAAAAASUVORK5CYII=" alt="Data Structures and Algorithms"></a>
 </p>
 
-<!-- GitHub Stats -->
-<h3>GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudarshanj01&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
 
-<!-- Streak Stats -->
-<h3>Streak Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudarshanj01&theme=dark" alt="Streak Stats">
-</p>
 
-<!-- Top Languages -->
-<h3>Top Languages:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudarshanj01&layout=compact&theme=dark" alt="Top Languages">
-</p>
 
 <!-- Contact Me -->
 <h3>Connect with Me:</h3>
@@ -59,6 +39,5 @@
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2F1bDdwN3kxMXRtdGpiMmNkN2RoNDh2MjMxcDBkNWIzNnFmcG03NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZfK4cXKJTTay1Ava29/giphy.gif" alt="coding" width="400" height="300">
 </p>
 <h4 align="center">Thanks for visiting! 🙏</h4>
