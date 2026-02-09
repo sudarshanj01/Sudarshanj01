@@ -4,7 +4,7 @@
 
 <!-- About Me -->
 <h3>About Me:</h3>
-<p>I am a professional Full Stack Developer with a strong background in Java, Spring Boot, React, and AWS. Additionally, I have extensive experience in AWS DevOps, ensuring efficient and reliable deployment of applications. My passion lies in creating high-quality, scalable, and user-friendly software solutions that bring value to businesses.</p>
+<p>I am a professional Software Engineer with a strong background in Java, Spring Boot, React, and AWS. Additionally, I have extensive experience in AWS DevOps, ensuring efficient and reliable deployment of applications. My passion lies in creating high-quality, scalable, and user-friendly software solutions that bring value to businesses.</p>
 
 <!-- Tech Stack -->
 <h3>Tech Stack:</h3>
